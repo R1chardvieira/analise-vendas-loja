@@ -1,1 +1,1 @@
-# analise-vendas-loja
+# Projeto de Análise de Vendas
